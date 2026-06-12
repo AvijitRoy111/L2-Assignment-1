@@ -35,7 +35,7 @@
 
  function checkType(value: StringOrNumber): string {
 
-//   if (typeof value === "string") {
+   if (typeof value === "string") {
 //     return "String";
 //   }
 
