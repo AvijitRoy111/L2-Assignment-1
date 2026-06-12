@@ -20,7 +20,7 @@
    const finalResult = reversedLetters.join("");
    return finalResult;
  }
-// // Sample Input:
+ // Sample Input:
 // const reverseStringResult = reverseString("typescript");
 
 // console.log(reverseStringResult);
