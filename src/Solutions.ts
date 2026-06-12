@@ -36,7 +36,7 @@
  function checkType(value: StringOrNumber): string {
 
    if (typeof value === "string") {
-//     return "String";
+     return "String";
 //   }
 
 //   return "Number";
