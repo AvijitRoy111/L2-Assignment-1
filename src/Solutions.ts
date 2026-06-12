@@ -31,7 +31,7 @@
 
  // ----------- PROBLEM-3 -----------------
 
-// type StringOrNumber = string | number;
+ type StringOrNumber = string | number;
 
 // function checkType(value: StringOrNumber): string {
 
