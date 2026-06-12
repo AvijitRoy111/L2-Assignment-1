@@ -13,7 +13,7 @@
  // =========================================================
 
  // ----------- PROBLEM-2 -----------------
-// function reverseString(word: string): string {
+ function reverseString(word: string): string {
 
 //   const letters = word.split("");
 //   const reversedLetters = letters.reverse();
