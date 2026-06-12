@@ -16,7 +16,7 @@
  function reverseString(word: string): string {
 
    const letters = word.split("");
-//   const reversedLetters = letters.reverse();
+   const reversedLetters = letters.reverse();
 //   const finalResult = reversedLetters.join("");
 //   return finalResult;
 // }
