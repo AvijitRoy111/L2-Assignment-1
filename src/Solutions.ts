@@ -4,7 +4,7 @@
  }
 
  // Sample Input:
-// const filterEvenNumbersResult = filterEvenNumbers([1, 2, 3, 4, 5, 6]);
+ const filterEvenNumbersResult = filterEvenNumbers([1, 2, 3, 4, 5, 6]);
 
 // console.log(filterEvenNumbersResult);
 // // Sample Output:
