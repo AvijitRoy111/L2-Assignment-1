@@ -33,7 +33,7 @@
 
  type StringOrNumber = string | number;
 
-// function checkType(value: StringOrNumber): string {
+ function checkType(value: StringOrNumber): string {
 
 //   if (typeof value === "string") {
 //     return "String";
