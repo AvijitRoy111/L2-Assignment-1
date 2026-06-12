@@ -25,7 +25,7 @@
 
  console.log(reverseStringResult);
  // Sample Output:
-// // "tpircsepyt";
+ // "tpircsepyt";
 
 // // =========================================================
 
