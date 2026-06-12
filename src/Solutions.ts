@@ -18,7 +18,7 @@
    const letters = word.split("");
    const reversedLetters = letters.reverse();
    const finalResult = reversedLetters.join("");
-//   return finalResult;
+   return finalResult;
 // }
 // // Sample Input:
 // const reverseStringResult = reverseString("typescript");
