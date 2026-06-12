@@ -19,7 +19,7 @@
    const reversedLetters = letters.reverse();
    const finalResult = reversedLetters.join("");
    return finalResult;
-// }
+ }
 // // Sample Input:
 // const reverseStringResult = reverseString("typescript");
 
