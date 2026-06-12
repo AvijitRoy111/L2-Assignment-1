@@ -24,7 +24,7 @@
  const reverseStringResult = reverseString("typescript");
 
  console.log(reverseStringResult);
-// // Sample Output:
+ // Sample Output:
 // // "tpircsepyt";
 
 // // =========================================================
