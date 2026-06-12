@@ -23,7 +23,7 @@
  // Sample Input:
  const reverseStringResult = reverseString("typescript");
 
-// console.log(reverseStringResult);
+ console.log(reverseStringResult);
 // // Sample Output:
 // // "tpircsepyt";
 
