@@ -7,7 +7,7 @@
  const filterEvenNumbersResult = filterEvenNumbers([1, 2, 3, 4, 5, 6]);
 
  console.log(filterEvenNumbersResult);
-// // Sample Output:
+ // Sample Output:
 // // [2, 4, 6]
 
 // // =========================================================
