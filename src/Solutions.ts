@@ -37,7 +37,7 @@
 
    if (typeof value === "string") {
      return "String";
-//   }
+   }
 
 //   return "Number";
 // }
