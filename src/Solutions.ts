@@ -12,7 +12,7 @@
 
  // =========================================================
 
-// // ----------- PROBLEM-2 -----------------
+ // ----------- PROBLEM-2 -----------------
 // function reverseString(word: string): string {
 
 //   const letters = word.split("");
