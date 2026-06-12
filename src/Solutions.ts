@@ -21,7 +21,7 @@
    return finalResult;
  }
  // Sample Input:
-// const reverseStringResult = reverseString("typescript");
+ const reverseStringResult = reverseString("typescript");
 
 // console.log(reverseStringResult);
 // // Sample Output:
