@@ -76,7 +76,7 @@
 
  console.log(getPropertyResult);
  // Sample Output:
-// // "John Doe";
+ // "John Doe";
 
 
 
