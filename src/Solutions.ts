@@ -47,7 +47,7 @@
  // Sample Output 1:
  // "String";
 
-// // Sample Input 2:
+ // Sample Input 2:
 // console.log(checkType(42));
 // // Sample Output 2:
 // // "Number";
