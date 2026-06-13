@@ -63,7 +63,7 @@
    key: K
  ): T[K] {
    return obj[key];
-// }
+ }
 
 // // Sample Input
 // const user = {
