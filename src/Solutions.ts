@@ -40,7 +40,7 @@
    }
 
    return "Number";
-// }
+ }
 
 // // Sample Input 1:
 // console.log(checkType("Hello"));
