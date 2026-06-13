@@ -74,7 +74,7 @@
 
  const getPropertyResult = getProperty(user, "name");
 
-// console.log(getPropertyResult);
+ console.log(getPropertyResult);
 // // Sample Output:
 // // "John Doe";
 
