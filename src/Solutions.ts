@@ -44,7 +44,7 @@
 
  // Sample Input 1:
  console.log(checkType("Hello"));
-// // Sample Output 1:
+ // Sample Output 1:
 // // "String";
 
 // // Sample Input 2:
