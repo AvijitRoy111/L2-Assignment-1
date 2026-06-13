@@ -72,7 +72,7 @@
    age: 21
  };
 
-// const getPropertyResult = getProperty(user, "name");
+ const getPropertyResult = getProperty(user, "name");
 
 // console.log(getPropertyResult);
 // // Sample Output:
