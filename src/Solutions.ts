@@ -43,7 +43,7 @@
  }
 
  // Sample Input 1:
-// console.log(checkType("Hello"));
+ console.log(checkType("Hello"));
 // // Sample Output 1:
 // // "String";
 
