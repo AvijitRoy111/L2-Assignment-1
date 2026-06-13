@@ -65,7 +65,7 @@
    return obj[key];
  }
 
-// // Sample Input
+ // Sample Input
 // const user = {
 //   id: 1,
 //   name: "John Doe",
