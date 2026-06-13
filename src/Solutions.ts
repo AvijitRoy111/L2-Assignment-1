@@ -62,7 +62,7 @@
    obj: T,
    key: K
  ): T[K] {
-//   return obj[key];
+   return obj[key];
 // }
 
 // // Sample Input
