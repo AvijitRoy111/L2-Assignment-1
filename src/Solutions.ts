@@ -58,7 +58,7 @@
 
  // ----------- PROBLEM-4 -----------------
 
-// function getProperty<T, K extends keyof T>(
+ function getProperty<T, K extends keyof T>(
 //   obj: T,
 //   key: K
 // ): T[K] {
