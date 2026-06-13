@@ -39,7 +39,7 @@
      return "String";
    }
 
-//   return "Number";
+   return "Number";
 // }
 
 // // Sample Input 1:
