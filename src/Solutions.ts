@@ -66,7 +66,7 @@
  }
 
  // Sample Input
-// const user = {
+ const user = {
 //   id: 1,
 //   name: "John Doe",
 //   age: 21
