@@ -42,7 +42,7 @@
    return "Number";
  }
 
-// // Sample Input 1:
+ // Sample Input 1:
 // console.log(checkType("Hello"));
 // // Sample Output 1:
 // // "String";
