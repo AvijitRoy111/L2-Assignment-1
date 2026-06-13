@@ -50,7 +50,7 @@
  // Sample Input 2:
  console.log(checkType(42));
  // Sample Output 2:
-// // "Number";
+ // "Number";
 
 
 
