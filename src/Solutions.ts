@@ -69,7 +69,7 @@
  const user = {
    id: 1,
    name: "John Doe",
-//   age: 21
+   age: 21
 // };
 
 // const getPropertyResult = getProperty(user, "name");
