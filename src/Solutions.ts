@@ -84,8 +84,8 @@
 
  // ----------- PROBLEM-5 -----------------
  interface Book {
-//   title: string;
-//   author: string;
+   title: string;
+   author: string;
 //   publishedYear: number;
 // }
 
