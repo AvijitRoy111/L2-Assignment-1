@@ -98,7 +98,7 @@
  }
 
  // Sample Input
-// const myBook = {
+ const myBook = {
 //   title: "TypeScript Guide",
 //   author: "Jane Doe",
 //   publishedYear: 2024
