@@ -83,7 +83,7 @@
  // =========================================================
 
  // ----------- PROBLEM-5 -----------------
-// interface Book {
+ interface Book {
 //   title: string;
 //   author: string;
 //   publishedYear: number;
