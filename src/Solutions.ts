@@ -89,7 +89,7 @@
    publishedYear: number;
  }
 
-// function toggleReadStatus(book: Book) {
+ function toggleReadStatus(book: Book) {
 
 //   return {
 //     ...book,
