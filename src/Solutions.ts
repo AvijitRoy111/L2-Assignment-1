@@ -113,7 +113,7 @@
 
  // ----------- PROBLEM-6 -----------------
  class Person {
-//   name: string;
+   name: string;
 //   age: number;
 
 //   constructor(name: string, age: number) {
