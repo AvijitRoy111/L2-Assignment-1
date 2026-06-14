@@ -92,7 +92,7 @@
  function toggleReadStatus(book: Book) {
 
    return {
-//     ...book,
+     ...book,
 //     isRead: true
 //   };
 // }
