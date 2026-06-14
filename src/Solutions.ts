@@ -93,7 +93,7 @@
 
    return {
      ...book,
-//     isRead: true
+     isRead: true
 //   };
 // }
 
