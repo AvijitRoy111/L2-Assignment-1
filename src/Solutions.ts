@@ -97,7 +97,7 @@
    };
  }
 
-// // Sample Input
+ // Sample Input
 // const myBook = {
 //   title: "TypeScript Guide",
 //   author: "Jane Doe",
