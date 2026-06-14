@@ -85,8 +85,8 @@
  // ----------- PROBLEM-5 -----------------
  interface Book {
    title: string;
-   author: string;
-//   publishedYear: number;
+  //  author: string;
+   publishedYear: number;
 // }
 
 // function toggleReadStatus(book: Book) {
