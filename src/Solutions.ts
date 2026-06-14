@@ -114,7 +114,7 @@
  // ----------- PROBLEM-6 -----------------
  class Person {
    name: string;
-//   age: number;
+   age: number;
 
 //   constructor(name: string, age: number) {
 //     this.name = name;
