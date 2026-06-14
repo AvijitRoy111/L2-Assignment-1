@@ -102,7 +102,7 @@
    title: "TypeScript Guide",
    author: "Jane Doe",
    publishedYear: 2024
-// };
+ };
 
 // const myBookResult = toggleReadStatus(myBook);
 
