@@ -101,7 +101,7 @@
  const myBook = {
    title: "TypeScript Guide",
    author: "Jane Doe",
-//   publishedYear: 2024
+   publishedYear: 2024
 // };
 
 // const myBookResult = toggleReadStatus(myBook);
