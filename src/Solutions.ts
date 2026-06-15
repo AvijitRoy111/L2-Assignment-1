@@ -138,7 +138,7 @@
  // Sample Input
  const student = new Student("Alice", 20, "A");
 
-// console.log(student.getDetails());
+ console.log(student.getDetails());
 
 
 
