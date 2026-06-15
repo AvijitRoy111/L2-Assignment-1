@@ -126,7 +126,7 @@
    grade: string;
 
    constructor(name: string, age: number, grade: string) {
-//     super(name, age);
+     super(name, age);
 //     this.grade = grade;
 //   }
 
