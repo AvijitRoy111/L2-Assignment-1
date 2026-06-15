@@ -123,7 +123,7 @@
  }
 
  class Student extends Person {
-//   grade: string;
+   grade: string;
 
 //   constructor(name: string, age: number, grade: string) {
 //     super(name, age);
