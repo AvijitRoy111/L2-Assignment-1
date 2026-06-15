@@ -122,7 +122,7 @@
    }
  }
 
-// class Student extends Person {
+ class Student extends Person {
 //   grade: string;
 
 //   constructor(name: string, age: number, grade: string) {
