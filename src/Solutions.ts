@@ -151,7 +151,7 @@
    arr2: number[]
  ): number[] {
 
-//   return arr1.filter(num => arr2.includes(num));
+   return arr1.filter(num => arr2.includes(num));
 // }
 
 // // Sample Input
