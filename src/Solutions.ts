@@ -130,7 +130,7 @@
      this.grade = grade;
    }
 
-//   getDetails(): string {
+   getDetails(): string {
 //     return `Name: ${this.name}, Age: ${this.age}, Grade: ${this.grade}`;
 //   }
 // }
