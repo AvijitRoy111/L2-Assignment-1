@@ -147,7 +147,7 @@
  // ----------- PROBLEM-7 -----------------
 
  function getIntersection(
-//   arr1: number[],
+   arr1: number[],
 //   arr2: number[]
 // ): number[] {
 
