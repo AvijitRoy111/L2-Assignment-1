@@ -127,7 +127,7 @@
 
    constructor(name: string, age: number, grade: string) {
      super(name, age);
-//     this.grade = grade;
+     this.grade = grade;
 //   }
 
 //   getDetails(): string {
