@@ -128,7 +128,7 @@
    constructor(name: string, age: number, grade: string) {
      super(name, age);
      this.grade = grade;
-//   }
+   }
 
 //   getDetails(): string {
 //     return `Name: ${this.name}, Age: ${this.age}, Grade: ${this.grade}`;
