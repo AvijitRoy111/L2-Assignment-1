@@ -120,7 +120,7 @@
      this.name = name;
      this.age = age;
    }
-// }
+ }
 
 // class Student extends Person {
 //   grade: string;
