@@ -152,7 +152,7 @@
  ): number[] {
 
    return arr1.filter(num => arr2.includes(num));
-// }
+ }
 
 // // Sample Input
 // const result = getIntersection(
