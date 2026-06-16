@@ -22,7 +22,7 @@ function identity<T>(value: T): T {
 
 const name = identity("John");
 
-<!-- const age = identity(21); -->
+const age = identity(21);
 
 এখানে:
 
