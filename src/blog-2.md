@@ -24,7 +24,7 @@ const name = identity("John");
 
 const age = identity(21);
 
-এখানে:
+<!-- এখানে: -->
 
 .প্রথম function call এ T হবে string
 .দ্বিতীয় function call এ T হবে number
