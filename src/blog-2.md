@@ -1,4 +1,4 @@
-<!-- TypeScript Generics -->
+TypeScript Generics
 <!-- 
 TypeScript এর সবচেয়ে powerful feature গুলোর মধ্যে একটি হলো `Generics`।  
 এটি এমন একটি system যেটা reusable এবং type-safe code লিখতে সাহায্য করে। -->
