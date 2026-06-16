@@ -20,7 +20,7 @@ function identity<T>(value: T): T {
 
 মানে function call করার সময় TypeScript automatically বুঝে নেয় T আসলে কোন type হবে।
 
-<!-- const name = identity("John"); -->
+const name = identity("John");
 
 const age = identity(21);
 
