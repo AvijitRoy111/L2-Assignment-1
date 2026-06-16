@@ -9,7 +9,7 @@ TypeScript এর সবচেয়ে powerful feature গুলোর মধ্�
 
 Generic Function কীভাবে কাজ করে
 
-<!-- Generics এ type এর জায়গায় placeholder ব্যবহার করা হয়। -->
+Generics এ type এর জায়গায় placeholder ব্যবহার করা হয়।
 
 function identity<T>(value: T): T {
   return value;
