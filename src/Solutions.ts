@@ -160,4 +160,4 @@
    [3, 4, 5, 6, 7]
  );
 
-// console.log(result);
+ console.log(result);
