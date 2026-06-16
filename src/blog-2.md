@@ -15,10 +15,10 @@ function identity<T>(value: T): T {
   return value;
 }
 
-এখানে T হলো generic type parameter।
-এটা placeholder এর মতো কাজ করে।
+<!-- এখানে T হলো generic type parameter। -->
+<!-- এটা placeholder এর মতো কাজ করে। -->
 
-মানে function call করার সময় TypeScript automatically বুঝে নেয় T আসলে কোন type হবে।
+<!-- মানে function call করার সময় TypeScript automatically বুঝে নেয় T আসলে কোন type হবে। -->
 
 const name = identity("John");
 
