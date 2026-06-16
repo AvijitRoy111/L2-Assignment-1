@@ -3,13 +3,13 @@ TypeScript Generics
 TypeScript এর সবচেয়ে powerful feature গুলোর মধ্যে একটি হলো `Generics`।  
 এটি এমন একটি system যেটা reusable এবং type-safe code লিখতে সাহায্য করে।
 
-যখন একই logic বিভিন্ন ধরনের data এর জন্য ব্যবহার করতে হয়, তখন Generics অনেক useful হয়।
+<!-- যখন একই logic বিভিন্ন ধরনের data এর জন্য ব্যবহার করতে হয়, তখন Generics অনেক useful হয়। -->
 
-বড় project এ clean এবং maintainable code লেখার জন্য Generics অনেক helpful।
+<!-- বড় project এ clean এবং maintainable code লেখার জন্য Generics অনেক helpful। -->
 
-Generic Function কীভাবে কাজ করে
+<!-- Generic Function কীভাবে কাজ করে -->
 
-Generics এ type এর জায়গায় placeholder ব্যবহার করা হয়।
+<!-- Generics এ type এর জায়গায় placeholder ব্যবহার করা হয়। -->
 
 function identity<T>(value: T): T {
   return value;
