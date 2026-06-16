@@ -57,8 +57,8 @@ const firstNumber = getFirstItem([10, 20, 30]);
 
 const firstString = getFirstItem(["apple", "mango"]);
 
-.firstNumber হবে number
-.firstString হবে string
+<!-- .firstNumber হবে number -->
+<!-- .firstString হবে string -->
 
 TypeScript automatically বুঝে নিচ্ছে কোনটার type কী।
 
