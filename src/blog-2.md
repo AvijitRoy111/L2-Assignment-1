@@ -16,7 +16,7 @@ function identity<T>(value: T): T {
 }
 
 এখানে T হলো generic type parameter।
-<!-- এটা placeholder এর মতো কাজ করে। -->
+এটা placeholder এর মতো কাজ করে।
 
 <!-- মানে function call করার সময় TypeScript automatically বুঝে নেয় T আসলে কোন type হবে। -->
 
